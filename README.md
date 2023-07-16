@@ -1,1 +1,1 @@
-# Detecciondeojos
+# Deteccion de ojos
